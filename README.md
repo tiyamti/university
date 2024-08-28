@@ -1,2 +1,1 @@
-# university
-UI HOMEWORK 
+👋 Hi! I'm currently studying Computer Engineering at Isfahan University. This repository contains my homework assignments as well as projects from students for whom I served as a Teaching Assistant (TA). Feel free to explore and learn from the code!

@@ -1,4 +1,5 @@
 Final Project: Inventory Management System
+
 An inventory management system is software that allows businesses to track inventory levels, sales, and product deliveries. This type of program can be developed using Object-Oriented Programming (OOP) principles in C++. In this approach, the inventory is represented as a collection of individual products, each with its unique attributes, such as an ID, name, quantity, and price. The program will include classes to manage these products and their interactions, such as adding or removing products from inventory, updating product quantities, and displaying current inventory levels. With an inventory management system, businesses can effectively monitor their stock levels and make informed decisions about purchasing and restocking.
 
 Requirements:

@@ -20,29 +20,7 @@ Commands:
 Examples:
 Check if a host is online:
 
-bash
-Copy code
-./timap -sS 192.168.1.1
-Scan all ports of a host:
 
-bash
-Copy code
-./timap -r 192.168.1.1
-Scan specific ports:
-
-bash
-Copy code
-./timap -p 80,443 192.168.1.1
-Simulate GET request:
-
-bash
-Copy code
-./timap -sp GET user1
-Simulate POST request:
-
-bash
-Copy code
-./timap -sp POST "John Doe" 25
 
 Project Structure
 src/: Source code for the application.

@@ -10,6 +10,7 @@ Usage
 The tool can be run with various commands to perform different network-related tasks:
 
 Commands:
+
 -h: Displays help information about the tool.
 -sS: Checks if a host is online.
 -r: Tests all ports of a specified IP address to determine whether they are open or closed.

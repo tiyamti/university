@@ -15,19 +15,19 @@ The tool can be run with various commands to perform different network-related t
 
 Commands:
 
--h: Displays help information about the tool.
+ - -h: Displays help information about the tool.
 
--sS: Checks if a host is online.
+ - -sS: Checks if a host is online.
 
--r: Tests all ports of a specified IP address to determine whether they are open or closed.
+ - -r: Tests all ports of a specified IP address to determine whether they are open or closed.
 
--p: Scans selected ports. After using this command, specify the port numbers, followed by the IP address.
+ - -p: Scans selected ports. After using this command, specify the port numbers, followed by the IP address.
 
--sp: Selects the type of HTTP request to use.
+ - -sp: Selects the type of HTTP request to use.
 
--sp GET: Use the GET request type. Requires user ID.
+ - -sp GET: Use the GET request type. Requires user ID.
 
--sp POST: Use the POST request type. Requires user name and age.
+ - -sp POST: Use the POST request type. Requires user name and age.
 
  - -sN: trace ping of IP, U can send hole part of IP xxx.xxx.xxx.xxx or xxx.xxx.xxx. if you send like that it trace of all ranges of xxx.xxx.xxx.1 to 254
 

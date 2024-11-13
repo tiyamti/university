@@ -29,8 +29,7 @@ Commands:
 
 -sp POST: Use the POST request type. Requires user name and age.
 
-
-
+ - -sN: trace ping of IP, U can send hole part of IP xxx.xxx.xxx.xxx or xxx.xxx.xxx. if you send like that it trace of all ranges of xxx.xxx.xxx.1 to 254
 
 Project Structure
 

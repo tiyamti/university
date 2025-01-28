@@ -1,1 +1,2 @@
+This project is an IoT system that utilizes face recognition and artificial intelligence to control LEDs. It includes a Python program for data processing, an Arduino board for hardware control, and a GPT model for intelligent decision-making.
 

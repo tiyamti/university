@@ -42,6 +42,3 @@ This project demonstrates an IoT system that controls LEDs through a web interfa
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
